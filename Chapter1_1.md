@@ -34,6 +34,7 @@ This was known as the *Three Characters Classic*, and was so called because each
 
 This book was in reality a primer, and the very first statement in it is that "the nature of man is originally good."
 > * primer:启蒙读本   ['praɪmɚ]  来自于primary school中的primary
+> *　the nature of man is originally good：人之初性本善
 
 This is one of the fundamental ideas of Mencius' philosophy.
 > * fundamental ideas:基础/基石理念
