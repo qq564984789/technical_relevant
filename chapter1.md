@@ -1,6 +1,6 @@
 The place which philosophy has occupied in Chinese civilization has been comparable to that of religion in other civilizations.
 解析：
-> * The place：主语   has been comparable to：谓语    that:指代the place
+> - The place：主语   has been comparable to：谓语    that:指代the place
 > * which philosophy has occupied in Chinese civilization：定语从句，修饰主语
 > * A has occupied place in B:A在B中占有地位
 > * be comparable to:与...有可比性    ['kɑmpərəbl] 
