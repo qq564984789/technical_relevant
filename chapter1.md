@@ -1,8 +1,8 @@
 The place which philosophy has occupied in Chinese civilization has been comparable to that of religion in other civilizations.
 解析：
-> *1. The place：主语   has been comparable to：谓语    that:指代the place
-> *2. which philosophy has occupied in Chinese civilization：定语从句，修饰主语
-> *3. A has occupied place in B:A在B中占有地位
+> 1. The place：主语   has been comparable to：谓语    that:指代the place
+> 2. which philosophy has occupied in Chinese civilization：定语从句，修饰主语
+> 3. A has occupied place in B:A在B中占有地位
 4. be comparable to:与...有可比性    ['kɑmpərəbl] 
 西方自中世纪后，将哲学和神学、宗教分离开来，回归到古希腊亚里士多德、柏拉图的中轴线上。
 西方哲学注重思辨、反思、求真，关注真理是什么，思考真理的方式是否符合逻辑，谈论形而上的问题。
