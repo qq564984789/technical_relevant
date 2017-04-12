@@ -13,5 +13,10 @@ In one sense this is quite true. But one may ask: Why is this so? If the craving
 the innate desires of mankind, why is it a fact that for most people religious ideas and activities constitute an all-important and absorbing
 part of life? If that craving is one of the fundamental desires of mankind, why should the Chinese people be an exception? When one says that it is ethics, not religion, that has provided the spiritual basis of
 Chinese civilization, does it imply that the Chinese are not conscious of those values which are higher than moral ones?
-> * In one sense:从某一方面来讲
-> * innate:[ɪ'net]  adj. 先天的；固有的；  craving：渴望           按下不表
+> * In one sense:从某一方面来讲,下面开始提出反对者的意见（一改普通陈述的方式罗列观点，以提问的方式展现）
+> * innate:[ɪ'net]  adj. 先天的；固有的；  craving：渴望           按下不表
+> * absorbing :[əb'zɔːbɪŋ] adj. 吸引人的；极有趣的    all-important :adj. 非常重要的；首要的
+> * If .... is not .....,why is it a fact.....:    如果...不是....，那又怎么解释....
+> * naysayer  :['neseɪə]  n. 指那些说某事成不了、经常否定、拒绝或者反对一些事情的人
+> * syllogism:['sɪlədʒɪzəm] n. 三段论      major premise [ˈprɛmɪs] ：大前提         minor  premise:小前提    conclusion  ：结论
+> * 驳斥三段论的办法：从大前提否定 或 从小前提否定。这里从大前提否定：超越现实世界是内心的渴望，但未必要靠宗教来完成
